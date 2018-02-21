@@ -1,0 +1,40 @@
+.ui.borderless.topmenu.menu {
+  position: absolute;
+  color: white;
+  top: 0;
+  font-family: 'Nunito',sans-serif;
+  font-size: 18px;
+  height: 55px;
+  background-color: rgba(21, 71, 148, 0.8);
+  padding-left: 150px;
+  padding-right: 150px;
+  z-index:1000;
+  width: 100%;
+  margin: 0 auto;
+
+
+}
+nav li.current-menu-item a, nav li.current_page_item a, nav .product {
+  color: #F9EC88;
+}
+#home {
+  color:#F9EC88;
+}
+.ui.menu .item {
+  color:white;
+  font-weight: 700;
+}
+
+
+.starba {
+  position:relative;
+  top:-320px;
+  z-index:0;
+
+}
+.title{
+
+  top:150px;
+
+  z-index:1;
+}
